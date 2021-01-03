@@ -1,0 +1,52 @@
+body{
+    background-image: url(picture-1.jpg);
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.nav{
+    font-family: sans-serif;
+}
+li{
+    float: right;
+    margin-top: 20px;
+    list-style-type: none;
+    padding-right:10px ;
+}
+li a{
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    font-size: 25px;
+    color: white;
+}
+.Sajek{
+    padding-top: 40px;
+    font-family: cursive;
+    color: wheat;
+    font-size: 15px;
+    display: inline-block;
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+}
+.Sundarbon{
+    padding-top: 40px;
+    display: inline-block;
+    font-family: cursive;
+    color: wheat;
+    font-size: 15px;
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 40px;
+
+}
+.Know{
+    text-align: center;
+    color: violet;
+}
+footer{
+    color: wheat;
+    text-align: center;
+    ;
+}
